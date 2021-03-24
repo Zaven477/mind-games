@@ -94,4 +94,4 @@ const calc = (min, max) => {
   }
   console.log(`Congratulations, ${name}!`);
 };
-console.log(calc(-20, -10));
+console.log(calc(1, 15));
