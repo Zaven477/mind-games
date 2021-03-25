@@ -50,4 +50,4 @@ const gcd = (min, max) => {
   }
   console.log(`Congratulations, ${name}!`);
 };
-gcd(10, 20);
+console.log(gcd(10, 20));
