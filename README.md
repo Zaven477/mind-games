@@ -12,4 +12,4 @@ https://asciinema.org/a/jNlvAQyJpXOoGgEL9ymQe3nxp
 # brain-progression
 https://asciinema.org/a/QhwGNYbP5BnSvEbLsrzU5PfEv
 # brain-prime
-https://asciinema.org/a/CKip4FqmPQD0uPsg55CpdBhPf
+https://asciinema.org/a/1KXyAsyKLx1WDdE9e5IqhxHyN
