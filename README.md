@@ -8,7 +8,7 @@
 # brain-calc
 <a href="https://asciinema.org/a/UmgiK3DfV2UiPrZz5k9ddIg2r" target="_blank"><img src="https://asciinema.org/a/UmgiK3DfV2UiPrZz5k9ddIg2r.svg" /></a>
 # brain-gcd
-
+<a href="https://asciinema.org/a/A8EA5ivxw9gxa9W9Nutxegimg" target="_blank"><img src="https://asciinema.org/a/A8EA5ivxw9gxa9W9Nutxegimg.svg" /></a>
 # brain-progression
 
 # brain-prime
